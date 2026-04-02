@@ -103,6 +103,11 @@ DevOps, automation, and infrastructure projects — especially around:
   <img src="https://komarev.com/ghpvc/?username=nijaobscvra666&style=for-the-badge&color=blueviolet"/>
 </p>
 
+
+
+
+<img src="https://streak-stats.demolab.com?user=nijaobscvra666&theme=tokyonight&hide_border=true"/>
+
 -----
 
 ### ✍️ Random Dev Quote
