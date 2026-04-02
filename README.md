@@ -89,11 +89,6 @@ DevOps, automation, and infrastructure projects — especially around:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nijaobscvra666&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijaobscvra666&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nijaobscvra666&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -102,11 +97,6 @@ DevOps, automation, and infrastructure projects — especially around:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nijaobscvra666&style=for-the-badge&color=blueviolet"/>
 </p>
-
-
-
-
-<img src="https://streak-stats.demolab.com?user=nijaobscvra666&theme=tokyonight&hide_border=true"/>
 
 -----
 
