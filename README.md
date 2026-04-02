@@ -1,18 +1,93 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>Automatisierung und Administration von Linux-Servern sowie Aufbau eines Smart-Home/Docker-Homelabs<br><br>🤝 I’m looking to collaborate on:<br>DevOps-, Automatisierungs- und Infrastruktur-Projekte (Ansible, Docker, Linux)<br><br>🌱 I’m currently learning:<br>Audio Engineering und fortgeschrittene Systemoptimierung im Enterprise-Umfeld<br><br>💬 Ask me about:<br>Linux, Self-Hosting, Ansible, Red Hat, Smart Home Infrastruktur
+<h1 align="center">Hey, I'm nijaobscvra666 👾</h1>
 
+<p align="center">
+  Linux & Infrastructure Engineer · Self-Hosting Enthusiast · Automation-first mindset
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nijaobscvra666?igsh=MXZmaGpyNmUzYW9pdQ%3D%3D&utm_source=qr) 
+-----
 
-# 💻 Tech Stack:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nijaobscvra666&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=nijaobscvra666&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nijaobscvra666&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### 🔧 What I’m working on
 
----
-[![](https://visitcount.itsvg.in/api?id=nijaobscvra666&icon=4&color=0)](https://visitcount.itsvg.in)
+- Automating and administering **Linux servers** (Debian/Ubuntu & Red Hat/RHEL)
+- Building and maintaining a **Smart Home / Docker Homelab** stack
+- Deploying infrastructure with **Ansible** — idempotent, role-based, production-grade
+- Migrating towards **OpenShift Container Platform** (OCP) in enterprise environments
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+-----
+
+### 🤝 Looking to collaborate on
+
+DevOps, automation, and infrastructure projects — especially around:
+**Ansible · Docker/Containers · Linux · OpenShift · Self-Hosting**
+
+-----
+
+### 💬 Ask me about
+
+`Linux` `Self-Hosting` `Ansible` `Red Hat` `Smart Home Infrastructure` `Docker` `MQTT` `Zigbee2MQTT` `Home Assistant`
+
+-----
+
+### 🖥️ Tech Stack
+
+<p align="left">
+  <!-- Linux / OS -->
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+
+  <!-- Automation / IaC -->
+
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vagrant-1868F2?style=for-the-badge&logo=vagrant&logoColor=white"/>
+
+  <!-- Container / Orchestration -->
+
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white"/>
+
+  <!-- Monitoring -->
+
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+
+  <!-- Smart Home -->
+
+  <img src="https://img.shields.io/badge/Home%20Assistant-41BDF5?style=for-the-badge&logo=homeassistant&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=white"/>
+
+  <!-- Version Control -->
+
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+
+  <!-- Misc -->
+
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Battle.net-148EFF?style=for-the-badge&logo=battlenet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PSN-003087?style=for-the-badge&logo=playstation&logoColor=white"/>
+</p>
+
+-----
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nijaobscvra666&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nijaobscvra666&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nijaobscvra666&theme=tokyonight&hide_border=true"/>
+</p>
+
+-----
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nijaobscvra666&style=for-the-badge&color=blueviolet"/>
+</p>
