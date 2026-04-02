@@ -22,11 +22,22 @@ DevOps, automation, and infrastructure projects — especially around:
 
 -----
 
+### 🌱 I’m currently learning
+
+- OpenShift Container Platform
+
+-----
+
 ### 💬 Ask me about
 
 `Linux` `Self-Hosting` `Ansible` `Red Hat` `Smart Home Infrastructure` `Docker` `MQTT` `Zigbee2MQTT` `Home Assistant`
 
 -----
+
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nijaobscvra666) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nijaobscvra666) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexklimmek) 
+
+----
 
 ### 🖥️ Tech Stack
 
@@ -91,3 +102,11 @@ DevOps, automation, and infrastructure projects — especially around:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nijaobscvra666&style=for-the-badge&color=blueviolet"/>
 </p>
+
+-----
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=nijaobscvra666&icon=0&color=10)](https://visitcount.itsvg.in)
